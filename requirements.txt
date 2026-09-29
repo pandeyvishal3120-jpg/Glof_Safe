@@ -1,0 +1,34 @@
+# Core web framework
+fastapi==0.141.1
+uvicorn==0.54.0
+starlette==1.7.0
+
+# Data layer
+SQLAlchemy==2.1.1
+pydantic==2.13.5
+pydantic_core==2.46.5
+
+# HTTP client (satellite / sensor / WorldPop calls)
+requests==2.34.2
+
+# Geospatial / DEM / satellite stack
+numpy==2.5.3
+rasterio==1.5.1
+affine==3.0.1
+shapely==2.1.2
+pyproj==3.8.0
+pystac==1.15.2
+pystac-client==0.9.0
+planetary-computer==1.0.0
+
+# Shared/support libraries
+anyio==4.15.1
+click==8.5.0
+h11==0.16.0
+idna==3.20
+certifi==2026.7.22
+charset-normalizer==3.5.1
+urllib3==2.8.0
+typing_extensions==4.16.0
+typing-inspection==0.4.4
+annotated-types==0.8.0

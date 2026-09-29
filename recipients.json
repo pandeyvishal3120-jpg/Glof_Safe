@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Emergency Control Room",
+    "phone": "9999999999",
+    "role": "AUTHORITY",
+    "active": true
+  },
+  {
+    "id": 2,
+    "name": "Test User",
+    "phone": "8888888888",
+    "role": "PUBLIC",
+    "active": true
+  }
+]
